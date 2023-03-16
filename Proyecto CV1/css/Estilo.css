@@ -1,0 +1,157 @@
+h3 {
+    color:black;
+     
+ }
+ 
+ p  {
+      
+     display:flex;
+     text-align: center;
+     font-family:'Bungee Spice', cursive;
+     justify-content: center;
+     width: 1000px;;
+     text-align: center;
+     background:center rgb(248, 246, 246);
+ 
+ 
+ }
+ 
+ 
+  
+ 
+ .center{
+     
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     background:rgb(248, 246, 246);
+     padding:300;
+ }
+ 
+ body{ 
+ 
+     background-color:rgb(134, 60, 218);
+ }
+ 
+ /*
+ Apartir de aca estan los botones con su colores y tamaños  
+ **/
+ #boton1{
+     color: blue;
+     color: green;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-size-adjust: 500px;
+     box-shadow: 0px 3px 0px #373;
+     
+     
+        
+     
+ }
+ 
+ 
+ #boton2{
+     
+     color: blue;
+     color:palevioletred;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+     
+     
+     
+ }
+ 
+ #boton3{
+     color: blue;
+     color: orange;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+ }
+ 
+ #boton4{
+     color: blue;
+     color: palevioletred;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+ }
+ 
+ #boton5{
+     color: blue;
+     color: purple;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+ }
+ 
+ 
+ #boton6{
+     color: blue;
+     color:black;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+ }
+ 
+ 
+ 
+ #boton7
+ {
+     color: blue;
+     color:blueviolet;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+ }
+ #boton8{
+     color: blue;
+     color:red;
+     display:inline-block;
+     font-size: 1.25em;
+     margin: 20px;
+     padding: 10px opx;
+     text-align: center;
+     width: 150px;
+     text-decoration: none;
+     box-shadow: 0px 3px 0px #373;
+ }
+ 
+ 
+ .boton id
+ {margin-right: 10px;}
